@@ -59,7 +59,7 @@ src/
 
 1. **Clone repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mfurqaann/todo-list-nextjs.git
    cd todo-list-app
    ```
 
