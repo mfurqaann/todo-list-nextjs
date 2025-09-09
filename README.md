@@ -2,7 +2,6 @@
 
 Aplikasi Todo List yang elegan dan responsif dibangun dengan Next.js, TypeScript, Tailwind CSS, dan Shadcn UI.
 
-**Note** :  Repositori ini adalah salinan dari repositori saya sebelumnya (https://github.com/mfurqaann/todo-list-app), yang di dalamnya saya telah mengintegrasikan bagian backend ke dalam app todo list ini.
 
 ## ✨ Fitur
 
