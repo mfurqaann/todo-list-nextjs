@@ -137,11 +137,3 @@ npm start
 3. Commit changes (`git commit -m 'Add amazing feature'`)
 4. Push ke branch (`git push origin feature/amazing-feature`)
 5. Buat Pull Request
-
-## 📄 License
-
-MIT License - lihat file [LICENSE](LICENSE) untuk detail.
-
----
-
-Dibuat dengan ❤️ menggunakan Next.js dan Shadcn UI
